@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "2aba785d1bd8f58acdf391a35944710f63bb16e3",
+    "author": "Rachael Stickland <50215726+RayStick@users.noreply.github.com>",
+    "time": "2026-01-20T09:59:54Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #222 from ropensci/update-contact-details\n\nUpdate DESCRIPTION for new contact details"
+  },
+  "repo": "https://github.com/ropensci/mapmetadata",
+  "pkg": "mapmetadata",
+  "time": "2026-08-30T07:51:33Z"
+}
